@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/CMakeFiles/picotoolBuild
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/CMakeFiles/picotoolBuild.rule
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/CMakeFiles/picotoolBuild-complete.rule
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

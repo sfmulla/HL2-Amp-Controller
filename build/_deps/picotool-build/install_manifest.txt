@@ -1,0 +1,5 @@
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/_deps/picotool/picotool.exe
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/_deps/picotool/picotoolTargets.cmake
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/_deps/picotool/picotoolTargets-debug.cmake
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/_deps/picotool/picotoolConfig.cmake
+C:/SDK/HL2IOBoard-main/n2adr_basic/build/_deps/picotool/picotoolConfigVersion.cmake

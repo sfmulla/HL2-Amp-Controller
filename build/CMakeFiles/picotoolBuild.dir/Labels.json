@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "C:/SDK/HL2IOBoard-main/n2adr_basic/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

@@ -1,0 +1,37 @@
+CMakeFiles\main.dir\C_\SDK\pico-sdk\src\rp2_common\hardware_boot_lock\boot_lock.c.obj: \
+ C:\SDK\pico-sdk\src\rp2_common\hardware_boot_lock\boot_lock.c \
+ C:\SDK\pico-sdk\src\rp2_common\hardware_boot_lock\include/hardware/boot_lock.h \
+ C:\SDK\pico-sdk\src\common\pico_base_headers\include/pico.h \
+ C:\SDK\pico-sdk\src\common\pico_base_headers\include/pico/types.h \
+ C:\SDK\pico-sdk\src\common\pico_base_headers\include/pico/assert.h \
+ C:/arm/arm-none-eabi/14.2rel1/lib/gcc/arm-none-eabi/14.2.1/include/stdbool.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/assert.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/_ansi.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/newlib.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/_newlib_version.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/sys/config.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/machine/ieeefp.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/sys/features.h \
+ C:/arm/arm-none-eabi/14.2rel1/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/stdint.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/machine/_default_types.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/sys/_intsup.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/sys/_stdint.h \
+ C:/arm/arm-none-eabi/14.2rel1/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
+ C:\SDK\HL2IOBoard-main\n2adr_basic\build\generated\pico_base/pico/version.h \
+ C:\SDK\pico-sdk\src\common\pico_base_headers\include/pico/config.h \
+ C:\SDK\HL2IOBoard-main\n2adr_basic\build\generated\pico_base/pico/config_autogen.h \
+ C:/SDK/pico-sdk/src/boards/include/boards/pico.h \
+ C:/SDK/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+ C:\SDK\pico-sdk\src\rp2040\pico_platform\include/pico/platform.h \
+ C:\SDK\pico-sdk\src\rp2_common\pico_platform_compiler\include/pico/platform/compiler.h \
+ C:\SDK\pico-sdk\src\rp2040\hardware_regs\include/hardware/platform_defs.h \
+ C:/arm/arm-none-eabi/14.2rel1/arm-none-eabi/include/sys/cdefs.h \
+ C:\SDK\pico-sdk\src\common\pico_base_headers\include/pico/types.h \
+ C:\SDK\pico-sdk\src\rp2_common\pico_platform_sections\include/pico/platform/sections.h \
+ C:\SDK\pico-sdk\src\rp2_common\pico_platform_panic\include/pico/platform/panic.h \
+ C:\SDK\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/addressmap.h \
+ C:\SDK\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/sio.h \
+ C:\SDK\pico-sdk\src\common\pico_base_headers\include/pico/error.h \
+ C:\SDK\pico-sdk\src\rp2_common\pico_runtime_init\include/pico/runtime_init.h \
+ C:\SDK\pico-sdk\src\rp2_common\pico_runtime\include/pico/runtime.h
