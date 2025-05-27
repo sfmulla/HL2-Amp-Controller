@@ -25,3 +25,11 @@ also it output 5.0v to GPIO10_Out5 (J4 pin 5) when PTT on (transsmition on)
  as PTT output to key the amplifier
 
 if you coneect your I/O board PICO to your PC using USB you can see the working Band
+
+Hermes Lite 2 modification video 
+
+Part 1:
+https://youtu.be/WSWt6XCm5Mo?si=c2ruU54xsYqTt7C7
+
+Part 2:
+https://youtu.be/a-BkAmH7aoM?si=q4triPfNHEP7bnts
